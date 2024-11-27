@@ -1,4 +1,4 @@
-l# 💫 About Me:
+# 💫 About Me:
 📙 I’m currently studying on SMK AK NUSA BANGSA BOGOR<br>🤝 I’m looking for help with the community<br>🌱 I’m currently learning JavaScript<br>⚡ Do not let the people of virtue and affluence among you swear to suspend donations to their relatives.... (24:22)
 
 
